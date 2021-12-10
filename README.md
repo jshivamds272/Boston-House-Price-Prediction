@@ -16,3 +16,10 @@ This is a form of regression, that constrains/ regularizes or shrinks the coeffi
 # 2-L2(Ridge Regression)-->
 
 ![ridge](https://user-images.githubusercontent.com/81983943/145536482-a1b9a260-105e-4705-aea2-385ed54bcd6e.png)
+
+# other methods of increase accuracy of dataset--
+
+1-Corss Validation -->Cross-validation is a resampling procedure used to evaluate machine learning models on a limited data sample. The procedure has a single parameter called k that refers to the number of groups that a given data sample is to be split into. As such, the procedure is often called k-fold cross-validation
+
+![cross val](https://user-images.githubusercontent.com/81983943/145537318-eadbc4be-1e07-48df-9d79-b99d78f56307.png)
+
